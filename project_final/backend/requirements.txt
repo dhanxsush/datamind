@@ -1,0 +1,25 @@
+# Core web framework
+fastapi
+uvicorn
+
+# PDF and document processing
+pypdf
+PyPDF2
+pdfplumber
+python-docx
+pytesseract
+Pillow
+
+# HTTP requests
+requests
+
+# Environment variable management
+python-dotenv
+
+# Supabase client
+supabase
+fastapi
+uvicorn
+python-dotenv
+requests
+# Add any other dependencies your app uses
