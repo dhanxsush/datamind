@@ -169,8 +169,3 @@ project_final/Code_Citations.md
 	•	Question generation from PDFs
 	•	User-specific learning recommendations
 
-⸻
-
-📄 License
-
-MIT License
